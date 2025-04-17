@@ -1,0 +1,13 @@
+{
+  "name": "donation",
+  "version": "1.0.0",
+  "description": "Frontend for donation application",
+  "main": "script.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
